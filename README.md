@@ -1,6 +1,6 @@
 # session
 
-A Clojure library designed to ... well, that part is up to you.
+A fork of @kovasb's session - trying to integrate it with Reagent, etc.
 
 ## Usage
 
